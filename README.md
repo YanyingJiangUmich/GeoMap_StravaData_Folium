@@ -1,4 +1,4 @@
-# Folium Interactive GeoMap Visualization On Strava Data 
+# Interactive Map Visualization On Strava Data - Using Folium  
 
 This exploratory analysis is based on strava data provided by the user to draw insights about his workout pattern. Data was collected using various wearable devices. For the user's privacy I am not providing the data here. See below for sample visualizations generated using Folium. 
 
